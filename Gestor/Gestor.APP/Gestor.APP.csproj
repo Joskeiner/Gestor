@@ -10,4 +10,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.11" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Gestor.BLL\Gestor.BLL.csproj" />
+    <ProjectReference Include="..\Gestor.DAL\Gestor.DAL.csproj" />
+    <ProjectReference Include="..\Gestor.ENTITY\Gestor.ENTITY.csproj" />
+  </ItemGroup>
+
 </Project>

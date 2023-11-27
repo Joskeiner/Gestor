@@ -1,0 +1,14 @@
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\bin\Debug\net7.0\Gestor.ENTITY.deps.json
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\bin\Debug\net7.0\Gestor.ENTITY.runtimeconfig.json
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\bin\Debug\net7.0\Gestor.ENTITY.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\bin\Debug\net7.0\Gestor.ENTITY.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.csproj.AssemblyReference.cache
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.AssemblyInfoInputs.cache
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.AssemblyInfo.cs
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\refint\Gestor.ENTITY.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\Gestor.ENTITY.genruntimeconfig.cache
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.ENTITY\obj\Debug\net7.0\ref\Gestor.ENTITY.dll

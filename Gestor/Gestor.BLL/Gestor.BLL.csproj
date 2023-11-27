@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Gestor.DAL\Gestor.DAL.csproj" />
+    <ProjectReference Include="..\Gestor.ENTITY\Gestor.ENTITY.csproj" />
+  </ItemGroup>
+
 </Project>

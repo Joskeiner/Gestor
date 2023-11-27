@@ -1,0 +1,17 @@
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\bin\Debug\net7.0\Gestor.BLL.deps.json
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\bin\Debug\net7.0\Gestor.BLL.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\bin\Debug\net7.0\Gestor.BLL.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\bin\Debug\net7.0\Gestor.DAL.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\bin\Debug\net7.0\Gestor.ENTITY.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\bin\Debug\net7.0\Gestor.DAL.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\bin\Debug\net7.0\Gestor.ENTITY.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.csproj.AssemblyReference.cache
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.AssemblyInfoInputs.cache
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.AssemblyInfo.cs
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.csproj.CoreCompileInputs.cache
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.csproj.CopyComplete
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\refint\Gestor.BLL.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\Gestor.BLL.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.BLL\obj\Debug\net7.0\ref\Gestor.BLL.dll

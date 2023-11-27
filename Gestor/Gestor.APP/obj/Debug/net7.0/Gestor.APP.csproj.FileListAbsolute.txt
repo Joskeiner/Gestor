@@ -221,3 +221,14 @@ C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\De
 C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\obj\Debug\net7.0\Gestor.APP.csproj.CopyComplete
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Gestor.BLL.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Gestor.DAL.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Gestor.ENTITY.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Gestor.BLL.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Gestor.DAL.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Gestor.ENTITY.pdb
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Npgsql.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
