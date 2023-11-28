@@ -7,7 +7,7 @@ public partial class Producto
 {
     public int Id { get; set; }
 
-    public string? Codigobarra { get; set; }
+    public string? CodigoBarra { get; set; }
 
     public string? Marca { get; set; }
 
@@ -17,17 +17,17 @@ public partial class Producto
 
     public int? Stock { get; set; }
 
-    public string? Urlimagen { get; set; }
+    public string? UrlImagen { get; set; }
 
-    public string? Nombreimagen { get; set; }
+    public string? NombreImagen { get; set; }
 
     public decimal? Precio { get; set; }
 
     public bool? Esactivo { get; set; }
 
-    public DateTime? Fecharegistro { get; set; }
+    public DateTime? FechaRegistro { get; set; }
 
-    public virtual Categorium? Categoria { get; set; }
+    public virtual Categoria? Categoria { get; set; }
 
-    public virtual ICollection<Detalleventum> Detalleventa { get; set; } = new List<Detalleventum>();
+    public virtual ICollection<DetalleVenta> DetallEventa { get; set; } = new List<DetalleVenta>();
 }
