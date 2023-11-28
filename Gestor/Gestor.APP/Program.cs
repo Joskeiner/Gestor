@@ -1,7 +1,24 @@
+using Gestor.APP.Utilidades;
+using Gestor.BLL.Implementaciones;
+using Gestor.BLL.Interfaces;
+using Gestor.DAL;
+using Gestor.DAL.Implementaciones;
+using Gestor.DAL.Interfaces;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<DbBitwiseTraining2Context>(opt =>
+                                    opt.UseNpgsql(builder.Configuration.GetConnectionString("CadenaSQL")));
+
+builder.Services.AddTransient(typeof(IGenericRepository<>) , typeof(GenericRepository<>));
+
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 var app = builder.Build();
 

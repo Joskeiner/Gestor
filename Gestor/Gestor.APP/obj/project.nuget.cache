@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "S56tlrrLoH8ROOvHgSWDGQfEg9KIghT+RcaWxzbCUgnMH8SUVA7hdZOlQ+l8Ikn9sSO+e22OngtJ8lRSNw23MA==",
+  "dgSpecHash": "N4wVddwS+5N6owc8cN/dPzShV1dP+le4KdR7BCKsxFaDnq5GNAqKj1fkF+UOcoZBC2FpjoPlRo/JSZisZm7mJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\Gestor.APP.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yoskeiner\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\yoskeiner\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
@@ -69,6 +71,7 @@
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.11\\microsoft.codeanalysis.razor.6.0.11.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.4.0\\microsoft.codeanalysis.scripting.common.4.4.0.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.4.0\\microsoft.codeanalysis.workspaces.common.4.4.0.nupkg.sha512",
+    "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.diasymreader\\1.4.0\\microsoft.diasymreader.1.4.0.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\7.0.11\\microsoft.dotnet.scaffolding.shared.7.0.11.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
