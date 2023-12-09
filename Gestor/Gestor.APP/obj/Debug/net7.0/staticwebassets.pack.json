@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
     },
     {
+      "Id": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\js\\vistas\\Categoria_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Categoria_Index.js"
+    },
+    {
+      "Id": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\js\\vistas\\Producto_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Producto_Index.js"
+    },
+    {
       "Id": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\js\\vistas\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\js\\vistas\\chart-bar-demo.js"
     },

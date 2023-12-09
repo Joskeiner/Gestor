@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Gestor",
+    "\\Gestor\\Gestor.APP",
+    "\\Gestor\\Gestor.APP\\Controllers",
+    "\\Gestor\\Gestor.ENTITY",
+    "\\Gestor\\Gestor.ENTITY\\Models"
   ],
+  "SelectedNode": "\\Gestor\\Gestor.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -232,3 +232,5 @@ C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\De
 C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Gestor.ENTITY.pdb
 C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Npgsql.dll
 C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\yoskeiner\OneDrive\Escritorio\Curso_Net\Gestor\Gestor\Gestor.APP\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

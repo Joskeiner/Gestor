@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w8Jsj5hDIdeJF3d0Lert3b7jLF79nsUqtZpIpGR7bBQ=",
+  "Hash": "nx+jHx5IF3puL/0Clzq5cd5RL4IjhDCmUVwZIe9SUJg=",
   "Source": "Gestor.APP",
   "BasePath": "_content/Gestor.APP",
   "Mode": "Default",
@@ -119,6 +119,23 @@
       "OriginalItemSpec": "wwwroot\\js\\sb-admin-2.min.js"
     },
     {
+      "Identity": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\js\\vistas\\Categoria_Index.js",
+      "SourceId": "Gestor.APP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\",
+      "BasePath": "_content/Gestor.APP",
+      "RelativePath": "js/vistas/Categoria_Index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vistas\\Categoria_Index.js"
+    },
+    {
       "Identity": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\js\\vistas\\chart-bar-demo.js",
       "SourceId": "Gestor.APP",
       "SourceType": "Discovered",
@@ -168,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\vistas\\datatables-demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\js\\vistas\\Producto_Index.js",
+      "SourceId": "Gestor.APP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\",
+      "BasePath": "_content/Gestor.APP",
+      "RelativePath": "js/vistas/Producto_Index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vistas\\Producto_Index.js"
     },
     {
       "Identity": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Curso_Net\\Gestor\\Gestor\\Gestor.APP\\wwwroot\\scss\\_buttons.scss",
