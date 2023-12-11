@@ -4,9 +4,11 @@
     "\\Gestor",
     "\\Gestor\\Gestor.APP",
     "\\Gestor\\Gestor.APP\\Controllers",
+    "\\Gestor\\Gestor.APP\\Views",
+    "\\Gestor\\Gestor.APP\\Views\\Producto",
     "\\Gestor\\Gestor.ENTITY",
     "\\Gestor\\Gestor.ENTITY\\Models"
   ],
-  "SelectedNode": "\\Gestor\\Gestor.sln",
+  "SelectedNode": "\\Gestor\\Gestor.APP\\Views\\Producto\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
