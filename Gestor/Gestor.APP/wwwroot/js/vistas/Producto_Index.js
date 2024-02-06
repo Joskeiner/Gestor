@@ -116,3 +116,49 @@ $(document).ready(function () {
         },
     });
 });
+
+//-------- eliminar ----------
+$("#tbdata tbody").on("click", ".btn-eliminar", function () {
+    let fila;
+    if ($(this).closet("tr").hasClass("child")) {
+        fila = $(this).closest("tr").prev();
+    }
+    else {
+        fila = $(this).closest("tr");
+    }
+    const data = tabla.row(fila).data();
+
+    swal({
+        title: "¿Estas seguro?",
+        text: `Eliminar el producto "${data.descripcion}"`,
+        type: "warning",
+        showCancelButtton: true,
+        confirmButtonClass: "btn-danger",
+        confirmButtonText: "si, Eliminar ",
+        cancelButtonText: "No , cancelar",
+        closeOnConfirm: false,
+        closeOnCancel: true
+
+    }, function (respuesta) {
+        if (respuesta) {
+            $(".showSweetAlert").LoadingOverlay("show");
+            fetch(`/Producto/Eliminar?Id=${data.Id}`, {
+                method: "DELETE"
+            })
+                .then(response => {
+                    $(".showSweetAlert").LoadingOverlay("hiden");
+                    return response.ok ? response.json : Promise.reject(response);
+
+                })
+                .then(responseJson => {
+                    if (responseJson.estado) {
+                        tablaData.row(fila).remove().draw();
+                        $("#modalData").modal("hide");
+                        swal("Listo!", "El producto fue eliminado ", "success")
+                    } else {
+                        swal("Lo sentimos ", responseJson.mensaje, "error")
+                    }
+                })
+        }
+    })
+})
